@@ -1,1 +1,1 @@
-Here you can find the replication file for the paper "Nonresponse in name generators across countries and survey modes" by Ricardo Gonzalez, Esteban Muñoz, and Adolfo Fuentes, published on Social Networks. If you have questions please do not hesitate to conntact us.
+Here, you can find the replication file for the paper "Nonresponse in name generators across countries and survey modes" by Ricardo Gonzalez, Esteban Muñoz, and Adolfo Fuentes, published on Social Networks. If you have questions, please do not hesitate to contact us.
